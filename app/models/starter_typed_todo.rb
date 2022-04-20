@@ -1,0 +1,2 @@
+class StarterTypedTodo < ApplicationRecord
+end

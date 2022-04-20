@@ -1,0 +1,6 @@
+local:
+heroku local -f Procfile.dev
+
+https://secure-oasis-64039.herokuapp.com/
+
+

@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 ca921dc972e4feead6d129f4b99dc24524ed787d jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632849638 -0400	commit (initial): Commit phase 4 project to refactor to phase 5 project mvp
+ca921dc972e4feead6d129f4b99dc24524ed787d 4d2da4f1e0b164052a44580e4aefc13e66d7cd84 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632920436 -0400	commit: Update title tag
+4d2da4f1e0b164052a44580e4aefc13e66d7cd84 758d64875d511b610d25807b915a2395f1bbd795 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632924259 -0400	commit: Replace old model names with new model names across all files
+758d64875d511b610d25807b915a2395f1bbd795 1af5da15d262b3dfa1c8911c00c27e4a01498107 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632929724 -0400	commit: Refactor user.type to user.todo and user.name to user.user_name to get show and index routes to display
+1af5da15d262b3dfa1c8911c00c27e4a01498107 91f29c15dc61d1c0690569a0fe1d5cbd51966283 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632929905 -0400	commit: Remove UserHire component
+91f29c15dc61d1c0690569a0fe1d5cbd51966283 fa79390a1e6bf88ea0ede464592e675c8572516d jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632934171 -0400	commit: Show common to-do's in the pull down menu
+fa79390a1e6bf88ea0ede464592e675c8572516d 21c14e7881db96f8970f97e5ecb6be2f33ddea37 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632938908 -0400	commit: Refactor components so new todos are added from the front-end to the db
+21c14e7881db96f8970f97e5ecb6be2f33ddea37 27b420d519905ee4928326f6338a85dc64b0f5ad jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1632940319 -0400	commit: Remove all todos link
+27b420d519905ee4928326f6338a85dc64b0f5ad 145dedbd8ed834b90790cc33accc6da0c47c54e8 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633045021 -0400	commit: Refactor user components to properly display newly created to-do's and delete unnecessary files
+145dedbd8ed834b90790cc33accc6da0c47c54e8 d4a7cebe4bace71e01c6dc71e095e4e65db9dc00 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633046816 -0400	commit: Remove UI components from phase 4 project to be more like this project's MVP
+d4a7cebe4bace71e01c6dc71e095e4e65db9dc00 2e474922f74ef87d6681673e23bccfc3e9ccdd49 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633066713 -0400	commit: Display a mock-up delete to-do button
+2e474922f74ef87d6681673e23bccfc3e9ccdd49 76fd88351f8720cb845439d02a9c206276f15115 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633069467 -0400	commit: Make each delete to-do button function
+76fd88351f8720cb845439d02a9c206276f15115 8df7c1376e96f82f1ec0b7b5a29329772fa58591 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633071042 -0400	commit: Start a TodoShow component and clean up a stray console.log command
+8df7c1376e96f82f1ec0b7b5a29329772fa58591 61efa66e654c294eed02c4c9a0d53347716f3ae5 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633099159 -0400	commit: Express each todo as a component, 'UserShowTodoRow'
+61efa66e654c294eed02c4c9a0d53347716f3ae5 6ca7235ebbfffc96dd6ea5cd45cb80a9952071e4 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633108249 -0400	commit: Create working TodoShow component that allows updating
+6ca7235ebbfffc96dd6ea5cd45cb80a9952071e4 c956ef59db90fcb857d556d693864e626a586ae6 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633112100 -0400	commit: Create more convenient update capability in the 'UserShowTodoRow
+c956ef59db90fcb857d556d693864e626a586ae6 c18cc304f4cf97fdd9bc9627f9c889675887f41c jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633365121 -0400	commit: DraftNavBar and App components with auth
+c18cc304f4cf97fdd9bc9627f9c889675887f41c 0a56c50d1a915700bcbcc1455a878af35d9b5cf3 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633372456 -0400	commit: Add styles from Flatiron example to this project
+0a56c50d1a915700bcbcc1455a878af35d9b5cf3 cd42fe801381b793cc173377fb8dd130bd9ec757 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633372644 -0400	commit: Alter login component for this project
+cd42fe801381b793cc173377fb8dd130bd9ec757 c1a2ff71e7864d85e31830fcf3c3ad8234d5bc90 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633372836 -0400	commit: Correct pathnames in App.js
+c1a2ff71e7864d85e31830fcf3c3ad8234d5bc90 cb8e177a4a5ae4902ec142527b74c5ef13f25f43 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633524494 -0400	commit: Changed input modes in create to do function of component
+cb8e177a4a5ae4902ec142527b74c5ef13f25f43 449ece1cae2c8c766127436c4427263c8d29d881 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633709665 -0400	commit: Remove unnecessary fields from the SignUpForm component
+449ece1cae2c8c766127436c4427263c8d29d881 078bae51bd6612fbb1ba93bbbd56228725003d94 jeremiahtabb <jeremiah.r29q7.tabb@gmail.com> 1633816716 -0400	commit: Finish making new ui scheme to add to-do's through pre-loaded common to-do's

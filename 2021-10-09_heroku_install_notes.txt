@@ -1,0 +1,64 @@
+Jeremiahs-Air:fnp5-xxxsa-project-backend jeremiahtabb$ brew tap heroku/brew && brew install heroku
+Updating Homebrew...
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> Updated Formulae
+Updated 37 formulae.
+==> Deleted Formulae
+pandoc-citeproc
+
+==> Tapping heroku/brew
+Cloning into '/opt/homebrew/Library/Taps/heroku/homebrew-brew'...
+remote: Enumerating objects: 1777, done.
+remote: Counting objects: 100% (162/162), done.
+remote: Compressing objects: 100% (123/123), done.
+remote: Total 1777 (delta 40), reused 161 (delta 39), pack-reused 1615
+Receiving objects: 100% (1777/1777), 233.60 KiB | 902.00 KiB/s, done.
+Resolving deltas: 100% (436/436), done.
+Tapped 2 formulae (16 files, 290.2KB).
+==> Downloading https://nodejs.org/download/release/v12.21.0/node-v12.21.0-darwin-x64.tar.xz
+Already downloaded: /Users/jeremiahtabb/Library/Caches/Homebrew/downloads/cedf86381f1a7ae686ec511dc2d04de398dbd55a0d2e1e4ef6eee9df2c064df2--node-v12.21.0-darwin-x64.tar.xz
+==> Downloading https://cli-assets.heroku.com/heroku-v7.59.0/heroku-v7.59.0.tar.xz
+######################################################################## 100.0%
+==> Installing heroku from heroku/brew
+==> Installing dependencies for heroku/brew/heroku: heroku/brew/heroku-node
+==> Installing heroku/brew/heroku dependency: heroku/brew/heroku-node
+🍺  /opt/homebrew/Cellar/heroku-node/12.21.0: 6 files, 45.4MB, built in 7 seconds
+==> Installing heroku/brew/heroku
+==> Caveats
+To use the Heroku CLI's autocomplete --
+  Via homebrew's shell completion:
+    1) Follow homebrew's install instructions https://docs.brew.sh/Shell-Completion
+        NOTE: For zsh, as the instructions mention, be sure compinit is autoloaded
+              and called, either explicitly or via a framework like oh-my-zsh.
+    2) Then run
+      $ heroku autocomplete --refresh-cache
+  OR
+  Use our standalone setup:
+    1) Run and follow the install steps:
+      $ heroku autocomplete
+
+zsh completions have been installed to:
+  /opt/homebrew/share/zsh/site-functions
+==> Summary
+🍺  /opt/homebrew/Cellar/heroku/7.59.0: 28,792 files, 62.9MB, built in 30 seconds
+Removing: /Users/jeremiahtabb/Library/Caches/Homebrew/heroku--7.54.1.tar.xz... (7MB)
+==> Caveats
+==> heroku
+To use the Heroku CLI's autocomplete --
+  Via homebrew's shell completion:
+    1) Follow homebrew's install instructions https://docs.brew.sh/Shell-Completion
+        NOTE: For zsh, as the instructions mention, be sure compinit is autoloaded
+              and called, either explicitly or via a framework like oh-my-zsh.
+    2) Then run
+      $ heroku autocomplete --refresh-cache
+  OR
+  Use our standalone setup:
+    1) Run and follow the install steps:
+      $ heroku autocomplete
+
+zsh completions have been installed to:
+  /opt/homebrew/share/zsh/site-functions
+Jeremiahs-Air:fnp5-xxxsa-project-backend jeremiahtabb$ 
